@@ -1,1 +1,1 @@
-# iskra_magazine
+# Eskra_magazine
